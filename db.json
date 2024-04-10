@@ -1,0 +1,344 @@
+{
+    "hasMore": {
+      "skip": 20
+    },
+    "tracks": [
+      {
+        "_id": "66115aee492640aa453784d8",
+        "eId": "/yt/B5gOzDJeZqs",
+        "name": "The Walkmen - Heaven",
+        "img": "https://i.ytimg.com/vi/B5gOzDJeZqs/default.jpg",
+        "uId": "5911f8e098267ba4b34b8424",
+        "uNm": "ROBIT",
+        "pl": {
+          "id": 270,
+          "name": "Indie, pop, alternative, new wave 241"
+        },
+        "pId": "66115aee492640aa453784d8",
+        "nbR": 7,
+        "nbL": 1,
+        "score": 8,
+        "trackUrl": "//youtube.com/watch?v=B5gOzDJeZqs"
+      },
+      {
+        "_id": "6611d00d492640aa453784fd",
+        "eId": "/yt/KoQNFQRegnw",
+        "name": "Depeche Mode - People Are Good (Official Video)",
+        "img": "https://i.ytimg.com/vi/KoQNFQRegnw/default.jpg",
+        "uId": "5356db0471eaec19b56fe9ff",
+        "uNm": "Muriel (µµ)",
+        "pl": {
+          "id": 0,
+          "name": "Pop / New Wave"
+        },
+        "pId": "6611d00d492640aa453784fd",
+        "nbR": 5,
+        "nbL": 1,
+        "score": 6,
+        "trackUrl": "//youtube.com/watch?v=KoQNFQRegnw"
+      },
+      {
+        "_id": "660d6100366c0bcfb213fae7",
+        "eId": "/yt/AeCHP-4iRbM",
+        "name": "Bob Marley & The Wailers - Get Up, Stand Up ",
+        "img": "https://i.ytimg.com/vi/AeCHP-4iRbM/default.jpg",
+        "uId": "5f982b08bdb995520b561f0a",
+        "uNm": "Disquovery",
+        "pl": {
+          "id": 381,
+          "name": "Playlist collaborative \"Label Tamla Motown\""
+        },
+        "pId": "660d6100366c0bcfb213fae7",
+        "nbR": 5,
+        "nbL": 1,
+        "score": 6,
+        "trackUrl": "//youtube.com/watch?v=AeCHP-4iRbM"
+      },
+      {
+        "_id": "6615528c492640aa45378608",
+        "eId": "/yt/bb4FMn-IWEY",
+        "name": "The Partridge Family - I Think I Love You (Audio)",
+        "img": "https://i.ytimg.com/vi/bb4FMn-IWEY/default.jpg",
+        "uId": "5438c677e04b7b4fca7fb4f3",
+        "uNm": "jacques mercier",
+        "pl": {
+          "id": 4,
+          "name": "vieux pop"
+        },
+        "pId": "6615528c492640aa45378608",
+        "nbR": 4,
+        "nbL": 1,
+        "score": 5,
+        "trackUrl": "//youtube.com/watch?v=bb4FMn-IWEY"
+      },
+      {
+        "_id": "6614bd79492640aa453785ca",
+        "eId": "/yt/2sPC8HsXxik",
+        "name": "Rameau : Les sauvages, \"Forêts paisibles\", Les Indes galantes (Piau, Abadie)",
+        "img": "https://i.ytimg.com/vi/2sPC8HsXxik/default.jpg",
+        "uId": "5438c677e04b7b4fca7fb4f3",
+        "uNm": "jacques mercier",
+        "pl": {
+          "id": 6,
+          "name": "classique"
+        },
+        "pId": "6614bd79492640aa453785ca",
+        "nbR": 5,
+        "nbL": 0,
+        "score": 5,
+        "trackUrl": "//youtube.com/watch?v=2sPC8HsXxik"
+      },
+      {
+        "_id": "66150492492640aa453785ee",
+        "eId": "/yt/hSAuHrg8XnM",
+        "name": "Nathalie Stutzmann records Handel aria \"Ah, mio cor, schernito sen\"",
+        "img": "https://i.ytimg.com/vi/hSAuHrg8XnM/default.jpg",
+        "uId": "5438c677e04b7b4fca7fb4f3",
+        "uNm": "jacques mercier",
+        "pl": {
+          "id": 6,
+          "name": "classique"
+        },
+        "pId": "66150492492640aa453785ee",
+        "nbR": 5,
+        "nbL": 0,
+        "score": 5,
+        "trackUrl": "//youtube.com/watch?v=hSAuHrg8XnM"
+      },
+      {
+        "_id": "660cf95a366c0bcfb213fac8",
+        "eId": "/yt/O4Aknq06VvI",
+        "name": "Concerto in B Minor for Violin, RV 386: I. Allegro ma poco",
+        "img": "https://i.ytimg.com/vi/O4Aknq06VvI/default.jpg",
+        "uId": "5438c677e04b7b4fca7fb4f3",
+        "uNm": "jacques mercier",
+        "pl": {
+          "id": 6,
+          "name": "classique"
+        },
+        "pId": "660cf95a366c0bcfb213fac8",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=O4Aknq06VvI"
+      },
+      {
+        "_id": "660ff49b492640aa4537845d",
+        "eId": "/yt/Zf82N6xHBnw",
+        "name": "The Black Keys - Read Em And Weep (Official Visualizer)",
+        "img": "https://i.ytimg.com/vi/Zf82N6xHBnw/default.jpg",
+        "uId": "5edbd60cdadc93b520a93bfb",
+        "uNm": "Phil72 Le Mans",
+        "pl": {
+          "id": 164,
+          "name": "Phil165 2024"
+        },
+        "pId": "660ff49b492640aa4537845d",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=Zf82N6xHBnw"
+      },
+      {
+        "_id": "66150793492640aa453785ef",
+        "eId": "/yt/9M838EiInnQ",
+        "name": "PURCELL // Strike the Viol by Tim Mead, Les Musiciens de Saint-Julien, François Lazarevitch",
+        "img": "https://i.ytimg.com/vi/9M838EiInnQ/default.jpg",
+        "uId": "5438c677e04b7b4fca7fb4f3",
+        "uNm": "jacques mercier",
+        "pl": {
+          "id": 6,
+          "name": "classique"
+        },
+        "pId": "66150793492640aa453785ef",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=9M838EiInnQ"
+      },
+      {
+        "_id": "660d5b68366c0bcfb213fae3",
+        "eId": "/yt/MjAMHH3vysA",
+        "name": "AC/DC - Highway to Hell ",
+        "img": "https://i.ytimg.com/vi/MjAMHH3vysA/default.jpg",
+        "uId": "5f982b08bdb995520b561f0a",
+        "uNm": "Disquovery",
+        "pl": {
+          "id": 380,
+          "name": "Playlist collaborative \"Idles\""
+        },
+        "pId": "660d5b68366c0bcfb213fae3",
+        "nbR": 4,
+        "nbL": 0,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=MjAMHH3vysA"
+      },
+      {
+        "_id": "660d4033366c0bcfb213fad2",
+        "eId": "/yt/xFxC3txGZDg",
+        "name": "Sexual Healing / Marvin Gaye",
+        "img": "https://i.ytimg.com/vi/xFxC3txGZDg/default.jpg",
+        "uId": "5f982b08bdb995520b561f0a",
+        "uNm": "Disquovery",
+        "pl": {
+          "id": 377,
+          "name": "Label Tamla Motown (playlist discothécaires)"
+        },
+        "pId": "660d4033366c0bcfb213fad2",
+        "nbR": 4,
+        "nbL": 0,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=xFxC3txGZDg"
+      },
+      {
+        "_id": "660dd844366c0bcfb213fb37",
+        "eId": "/yt/43HOnc3nZ5s",
+        "name": "ODESZA - Behind The Sun - Official Video",
+        "img": "https://i.ytimg.com/vi/43HOnc3nZ5s/default.jpg",
+        "uId": "5356db0471eaec19b56fe9ff",
+        "uNm": "Muriel (µµ)",
+        "pl": {
+          "id": 3,
+          "name": "Electro / Chill"
+        },
+        "pId": "660dd844366c0bcfb213fb37",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=43HOnc3nZ5s"
+      },
+      {
+        "_id": "6615502b492640aa45378607",
+        "eId": "/yt/qzO023mvDQo",
+        "name": "Neil Diamond - Cracklin' Rosie (Audio)",
+        "img": "https://i.ytimg.com/vi/qzO023mvDQo/default.jpg",
+        "uId": "5438c677e04b7b4fca7fb4f3",
+        "uNm": "jacques mercier",
+        "pl": {
+          "id": 4,
+          "name": "vieux pop"
+        },
+        "pId": "6615502b492640aa45378607",
+        "nbR": 4,
+        "nbL": 0,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=qzO023mvDQo"
+      },
+      {
+        "_id": "6610ad76492640aa45378490",
+        "eId": "/yt/vrNh8w6QFUc",
+        "name": "Crispy - In & Out (Signum Remix) (2000)",
+        "img": "https://i.ytimg.com/vi/vrNh8w6QFUc/default.jpg",
+        "uId": "523c6a097e91c862b2b03b84",
+        "uNm": "Myrland",
+        "pl": {
+          "id": 0,
+          "name": "#musicislife"
+        },
+        "pId": "6610ad76492640aa45378490",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=vrNh8w6QFUc"
+      },
+      {
+        "_id": "660d61e0366c0bcfb213faeb",
+        "eId": "/yt/oHs98TEYecM",
+        "name": "Nina Simone - Feeling good",
+        "img": "https://i.ytimg.com/vi/oHs98TEYecM/default.jpg",
+        "uId": "5f982b08bdb995520b561f0a",
+        "uNm": "Disquovery",
+        "pl": {
+          "id": 381,
+          "name": "Playlist collaborative \"Label Tamla Motown\""
+        },
+        "pId": "660d61e0366c0bcfb213faeb",
+        "nbR": 4,
+        "nbL": 0,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=oHs98TEYecM"
+      },
+      {
+        "_id": "6614c818492640aa453785d2",
+        "eId": "/yt/ZxrBSad5FWQ",
+        "name": "VIVALDI // 'Juditha triumphans, RV 644: Air Armatae face et anguibus' by Jupiter",
+        "img": "https://i.ytimg.com/vi/ZxrBSad5FWQ/default.jpg",
+        "uId": "5438c677e04b7b4fca7fb4f3",
+        "uNm": "jacques mercier",
+        "pl": {
+          "id": 6,
+          "name": "classique"
+        },
+        "pId": "6614c818492640aa453785d2",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=ZxrBSad5FWQ"
+      },
+      {
+        "_id": "660d3ff5366c0bcfb213fad1",
+        "eId": "/yt/0CFuCYNx-1g",
+        "name": "Stevie Wonder Superstition",
+        "img": "https://i.ytimg.com/vi/0CFuCYNx-1g/default.jpg",
+        "uId": "5f982b08bdb995520b561f0a",
+        "uNm": "Disquovery",
+        "pl": {
+          "id": 377,
+          "name": "Label Tamla Motown (playlist discothécaires)"
+        },
+        "pId": "660d3ff5366c0bcfb213fad1",
+        "nbR": 4,
+        "nbL": 0,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=0CFuCYNx-1g"
+      },
+      {
+        "_id": "660e782f366c0bcfb213fb4d",
+        "eId": "/yt/-nBE9U7q1Uc",
+        "name": "CHAÎNE YOUTUBE OFFICIELLE DE KAROL BEFFA (COMPOSITEUR)",
+        "img": "https://i.ytimg.com/vi/-nBE9U7q1Uc/default.jpg",
+        "uId": "5f982b08bdb995520b561f0a",
+        "uNm": "Disquovery",
+        "pl": {
+          "id": 382,
+          "name": "Musique contemporaine"
+        },
+        "pId": "660e782f366c0bcfb213fb4d",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=-nBE9U7q1Uc"
+      },
+      {
+        "_id": "660fe228366c0bcfb213fbce",
+        "eId": "/yt/j4TqmCbBDGU",
+        "name": "The Wilder Blue - Super Natural",
+        "img": "https://i.ytimg.com/vi/j4TqmCbBDGU/default.jpg",
+        "uId": "544c39c3e04b7b4fca803438",
+        "uNm": "Stefanos Mavrogenis",
+        "pl": null,
+        "pId": "660fe228366c0bcfb213fbce",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=j4TqmCbBDGU"
+      },
+      {
+        "_id": "66150b73492640aa453785fc",
+        "eId": "/yt/LN8dBZ4N8-g",
+        "name": "VIVALDI La notte // LES MUSICIENS DE SAINT-JULIEN, FRANÇOIS LAZAREVITCH",
+        "img": "https://i.ytimg.com/vi/LN8dBZ4N8-g/default.jpg",
+        "uId": "5438c677e04b7b4fca7fb4f3",
+        "uNm": "jacques mercier",
+        "pl": {
+          "id": 6,
+          "name": "classique"
+        },
+        "pId": "66150b73492640aa453785fc",
+        "nbR": 3,
+        "nbL": 1,
+        "score": 4,
+        "trackUrl": "//youtube.com/watch?v=LN8dBZ4N8-g"
+      }
+    ]
+  }
